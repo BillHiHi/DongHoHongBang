@@ -96,7 +96,7 @@
         <div class="col-lg-6 ps-lg-5">
           <span class="badge bg-primary bg-opacity-10 text-primary rounded-pill px-3 py-2 mb-3">VỀ CHÚNG TÔI</span>
           
-          <h2 class="fw-bold mb-4 display-6">Doanh nghiệp may mặc với năng lực sản xuất đa dạng</h2>
+          <h2 class="fw-bold mb-4 display-6">Áo thun Xuxu với năng lực sản xuất đa dạng</h2>
           
           <p class="text-muted mb-4 lh-lg">
             Với hơn 15 năm kinh nghiệm trong ngành may mặc và trang phục, chúng tôi tự hào là đối tác tin cậy của nhiều doanh nghiệp và tổ chức giáo dục. Không chỉ chuyên về may mặc, chúng tôi còn mở rộng năng lực sản xuất các sản phẩm quà tặng cao cấp, mang đến giải pháp toàn diện cho khách hàng.
