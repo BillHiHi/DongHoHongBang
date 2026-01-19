@@ -43,15 +43,15 @@
                 <div class="col">
                   <h6 class="category-title"><i class="bi bi-megaphone me-2"></i>In ấn quảng cáo</h6>
                   <router-link class="dropdown-item" to="/catalogue">Tờ rơi – Catalogue</router-link>
-                  <router-link class="dropdown-item" to="/sticker">Name card – Sticker</router-link>
+                  <router-link class="dropdown-item" to="/namecards">Name card – Sticker</router-link>
                   <router-link class="dropdown-item" to="/quang-cao">Ấn phẩm quảng cáo nhanh</router-link>
                 </div>
 
                 <div class="col">
                   <h6 class="category-title"><i class="bi bi-printer me-2"></i>In ấn giấy</h6>
-                  <router-link class="dropdown-item" to="/in-ao">Brochure</router-link>
-                  <router-link class="dropdown-item" to="/in-qua">Bao thư</router-link>
-                  <router-link class="dropdown-item" to="/test">Voucher</router-link>
+                  <router-link class="dropdown-item" to="/brochures">Brochure</router-link>
+                  <router-link class="dropdown-item" to="/envelope">Bao thư</router-link>
+                  <router-link class="dropdown-item" to="/voucher">Voucher</router-link>
                 </div>
 
                 <div class="col">
