@@ -1,5 +1,11 @@
 
-import inlua from '@/assets/images/inlua.jpg' // Placeholder
+import inlua from '@/assets/images/ao/inlua.jpg' // Placeholder
+import temgiay from '@/assets/images/tem/temgiay.jpg'
+import temnhua from '@/assets/images/tem/temnhua.jpg'
+import tembac from '@/assets/images/tem/tembac.jpg'
+import temvo from '@/assets/images/tem/temvo.jpg'
+import temmypham from '@/assets/images/tem/temmypham.jpg'
+import temnhanphu from '@/assets/images/tem/temnhanphu.jpg'
 // Suggestion: Add specific sticker images to assets later
 
 export const features = [
@@ -23,25 +29,25 @@ export const features = [
 export const technologies = [
     {
         name: 'In Decal Giấy',
-        image: inlua, // Placeholder
+        image: temgiay, // Placeholder
         icon: 'bi bi-file-earmark-text-fill',
         features: ['Giá thành rẻ nhất', 'Thích hợp tem nhãn phụ', 'Màu sắc tươi sáng']
     },
     {
         name: 'In Decal Nhựa (Sữa/Trong)',
-        image: inlua, // Placeholder
+        image: temnhua, // Placeholder
         icon: 'bi bi-droplet',
         features: ['Chống nước tuyệt đối', 'Bền bỉ với môi trường', 'Không rách']
     },
     {
-        name: 'In Tem Bạc / Xi Bạc',
-        image: inlua, // Placeholder
+        name: 'In Tem Bạ / Xi Bạc',
+        image: tembac, // Placeholder
         icon: 'bi bi-star-fill',
         features: ['Sang trọng, cao cấp', 'Chịu nhiệt tốt', 'Thường dùng cho máy móc']
     },
     {
         name: 'In Tem Vỡ (Bảo Hành)',
-        image: inlua, // Placeholder
+        image: temvo, // Placeholder
         icon: 'bi bi-shield-lock-fill',
         features: ['Chống tháo gỡ', 'Bảo vệ thương hiệu', 'Đánh dấu bảo hành']
     }
@@ -61,12 +67,12 @@ export const contactDetails = [
 ];
 
 export const galleryImages = [
-    { src: inlua, alt: 'Tem nhãn chai lọ', title: 'Tem Mỹ Phẩm' }, // Placeholder
-    { src: inlua, alt: 'Tem decal giấy', title: 'Tem Nhãn Phụ' },
-    { src: inlua, alt: 'Tem bảo hành', title: 'Tem Vỡ Bảo Hành' },
-    { src: inlua, alt: 'Tem nhựa trong', title: 'Decal Trong Suốt' },
-    { src: inlua, alt: 'Sticker logo', title: 'Sticker Logo' },
-    { src: inlua, alt: 'Tem xi bạc', title: 'Tem Máy Móc' },
-    { src: inlua, alt: 'Tem giấy kraft', title: 'Tem Giấy Kraft' },
-    { src: inlua, alt: 'Tem cute', title: 'Sticker Cute' },
+    { src: temmypham, alt: 'Tem nhãn chai lọ', title: 'Tem Mỹ Phẩm' },
+    { src: temnhanphu, alt: 'Tem decal giấy', title: 'Tem Nhãn Phụ' },
+    { src: temvo, alt: 'Tem bảo hành', title: 'Tem Vỡ Bảo Hành' },
+    { src: temnhua, alt: 'Tem nhựa trong', title: 'Decal Trong Suốt' },
+    { src: temnhua, alt: 'Sticker logo', title: 'Sticker Logo' },
+    { src: tembac, alt: 'Tem xi bạc', title: 'Tem Máy Móc' },
+    { src: tembac, alt: 'Tem giấy kraft', title: 'Tem Giấy Kraft' },
+    { src: tembac, alt: 'Tem cute', title: 'Sticker Cute' },
 ];

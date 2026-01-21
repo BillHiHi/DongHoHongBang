@@ -1,15 +1,15 @@
 
-import inlua from '@/assets/images/inlua.jpg'
-import innhiet from '@/assets/images/innhiet.jpg'
-import inpet from '@/assets/images/inpet.jpg'
-import theu from '@/assets/images/theu.jpg'
+import inlua from '@/assets/images/ao/inlua.jpg'
+import innhiet from '@/assets/images/ao/innhiet.jpg'
+import inpet from '@/assets/images/ao/inpet.jpg'
+import theu from '@/assets/images/ao/theu.jpg'
 import hongbang1 from '@/assets/images/hongbang1.jpg'
 import hongbang2 from '@/assets/images/hongbang2.jpg'
 import hongbang3 from '@/assets/images/hongbang3.jpg'
 import hongbang4 from '@/assets/images/hongbang4.jpg'
 import hongbang5 from '@/assets/images/hongbang5.jpg'
 import dongho from '@/assets/images/DongHoTranh.jpg'
-import ao from '@/assets/images/ao.jpg'
+import ao from '@/assets/images/ao/ao.jpg'
 
 // Placeholder for missing images to prevent ReferenceError
 // Connect these to real images when they are added to assets

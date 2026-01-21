@@ -24,7 +24,6 @@ const routes = [
   { path: '/voucher', name: 'Voucher', component: VoucherPage },
   { path: '/laser', name: 'Laser', component: LaserDuaHau },
   { path: '/khaclaser', name: 'KhacLaser', component: KhacLaser },
-
   { path: '/standee', name: 'Standee', component: StandeePage },
   { path: '/tui', name: 'Tui', component: TuiPage },
   { path: '/inlogo', name: 'inlogo', component: inlogo },
